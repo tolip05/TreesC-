@@ -1,0 +1,11 @@
+D:\Algoritmi\Trees\Trees.Tests\bin\Debug\Trees.Tests.dll
+D:\Algoritmi\Trees\Trees.Tests\bin\Debug\Trees.Tests.pdb
+D:\Algoritmi\Trees\Trees.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Algoritmi\Trees\Trees.Tests\bin\Debug\Trees.exe
+D:\Algoritmi\Trees\Trees.Tests\bin\Debug\Trees.pdb
+D:\Algoritmi\Trees\Trees.Tests\bin\Debug\Trees.exe.config
+D:\Algoritmi\Trees\Trees.Tests\obj\Debug\Trees.Tests.csprojAssemblyReference.cache
+D:\Algoritmi\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CoreCompileInputs.cache
+D:\Algoritmi\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CopyComplete
+D:\Algoritmi\Trees\Trees.Tests\obj\Debug\Trees.Tests.dll
+D:\Algoritmi\Trees\Trees.Tests\obj\Debug\Trees.Tests.pdb

@@ -1,0 +1,7 @@
+D:\Algoritmi\Trees\Trees\bin\Debug\Trees.exe.config
+D:\Algoritmi\Trees\Trees\bin\Debug\Trees.exe
+D:\Algoritmi\Trees\Trees\bin\Debug\Trees.pdb
+D:\Algoritmi\Trees\Trees\obj\Debug\Trees.csprojAssemblyReference.cache
+D:\Algoritmi\Trees\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+D:\Algoritmi\Trees\Trees\obj\Debug\Trees.exe
+D:\Algoritmi\Trees\Trees\obj\Debug\Trees.pdb
